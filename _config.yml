@@ -26,10 +26,11 @@ author:
   name             : "Dhiraj Saw"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "India"
+  student         : "Indian Institute of Technology Goa"
   uri              : # URL
-  email            : "none@example.org" 
+  persnal email            : "dhirajsaw7979@gmail.com" 
+  college email: "dhiraj24232203@iitgoa.ac.in"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
